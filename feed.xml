@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Montres Paris</title>
+  <link href="https://montres-paris.com/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://montres-paris.com/" rel="alternate" type="text/html"/>
+  <id>https://montres-paris.com/</id>
+  <updated>2026-03-09</updated>
+  <author>
+    <name>Montres Paris</name>
+  </author>
+  <subtitle>Montres à Paris — boutiques, maisons, créateurs indépendants, culture horlogère et tendances de la scène parisienne</subtitle>
+  <entry>
+    <title>Histoire de l'horlogerie à Paris : de la pendule royale à la montre connectée</title>
+    <link href="https://montres-paris.com/culture/histoire-de-l-horlogerie-a-paris-de-la-pendule-royale-a-la-montre-connectee/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/culture/histoire-de-l-horlogerie-a-paris-de-la-pendule-royale-a-la-montre-connectee/</id>
+    <published>2026-03-09</published>
+    <updated>2026-03-09</updated>
+    <summary>De la corporation royale de François Ier aux ateliers du Quai de l'Horloge où Breguet a inventé le tourbillon, Paris a gouverné l'art de mesurer le temps pendant trois siècles. Un voyage dans l'histoire d'une ville qui a fait de l'horlogerie un art à part entière.</summary>
+  </entry>
+  <entry>
+    <title>Les ateliers de réparation horlogère à Paris : trouver le bon maître pour sa montre</title>
+    <link href="https://montres-paris.com/pratique/les-ateliers-de-reparation-horlogere-a-paris-trouver-le-bon-maitre-pour-sa-montre/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/pratique/les-ateliers-de-reparation-horlogere-a-paris-trouver-le-bon-maitre-pour-sa-montre/</id>
+    <published>2026-03-02</published>
+    <updated>2026-03-02</updated>
+    <summary>Confier sa montre à un horloger parisien est un acte de confiance — et le choix de l'atelier change tout. De Hometime rue Saint-Honoré à l'Atelier du Temps près des Champs-Élysées, en passant par Au Cœur des Montres et ses vingt ans d'expertise vintage, ce guide fait le tour des meilleurs artisans horlogers de Paris, avec tarifs indicatifs et conseils pratiques.</summary>
+  </entry>
+  <entry>
+    <title>Rencontre avec un créateur indépendant parisien : l'horlogerie comme art total</title>
+    <link href="https://montres-paris.com/createurs/rencontre-avec-un-createur-independant-parisien-l-horlogerie-comme-art-total/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/createurs/rencontre-avec-un-createur-independant-parisien-l-horlogerie-comme-art-total/</id>
+    <published>2026-02-23</published>
+    <updated>2026-02-23</updated>
+    <summary>Nicolas Ducoudert-Pham a fondé Beaubleu à Paris en 2017 avec une idée aussi simple qu'étrange : remplacer les aiguilles traditionnelles par des cercles. Diplômé de Strate et passé par Alstom et Van Cleef &amp; Arpels, ce designer devenu créateur horloger incarne une vision du temps comme expérience esthétique. Rencontre avec une maison parisienne en pleine ascension.</summary>
+  </entry>
+  <entry>
+    <title>Tendances horlogères Paris 2026 : ce que la capitale impose au monde de la montre</title>
+    <link href="https://montres-paris.com/tendances/tendances-horlogeres-paris-2026-ce-que-la-capitale-impose-au-monde-de-la-montre/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/tendances/tendances-horlogeres-paris-2026-ce-que-la-capitale-impose-au-monde-de-la-montre/</id>
+    <published>2026-02-16</published>
+    <updated>2026-02-16</updated>
+    <summary>Paris n'est pas une simple vitrine pour l'horlogerie suisse — en 2026, la capitale dicte ses propres règles : retour du mécanique artisanal, matières inédites, profil de collectionneur radicalement renouvelé. Clara M. décrypte les grandes tendances qui rayonnent depuis Paris vers le monde entier.</summary>
+  </entry>
+  <entry>
+    <title>Les meilleures adresses horlogères de Paris : notre guide complet 2026</title>
+    <link href="https://montres-paris.com/pratique/les-meilleures-adresses-horlogeres-de-paris-notre-guide-complet-2026/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/pratique/les-meilleures-adresses-horlogeres-de-paris-notre-guide-complet-2026/</id>
+    <published>2026-02-09</published>
+    <updated>2026-02-09</updated>
+    <summary>De la place Vendôme aux ateliers du Marais, Paris abrite une scène horlogère d'une richesse insoupçonnée. Ce guide recense les adresses incontournables — grandes maisons, galeries d'indépendants, spécialistes du vintage — pour les collectionneurs comme pour les curieux.</summary>
+  </entry>
+  <entry>
+    <title>Portrait d'une boutique horlogère du Palais-Royal : entre prestige et passion</title>
+    <link href="https://montres-paris.com/boutiques/portrait-d-une-boutique-horlogere-du-palais-royal-entre-prestige-et-passion/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/boutiques/portrait-d-une-boutique-horlogere-du-palais-royal-entre-prestige-et-passion/</id>
+    <published>2026-02-02</published>
+    <updated>2026-02-02</updated>
+    <summary>Direction le Palais-Royal et ses galeries chargées d'histoire — là où l'horlogerie parisienne a écrit ses plus belles pages depuis le XVIIIe siècle. Portrait du Studio Parmigiani Fleurier, 125-126 galerie de Valois, une boutique à taille humaine qui renoue avec cette tradition deux cents ans plus tard.</summary>
+  </entry>
+</feed>
