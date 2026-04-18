@@ -383,6 +383,10 @@ main {
 }
 
 .horlogerie-texte img {
+    width: 100%;
+    height: auto;
+    max-height: 700px;
+    object-fit: contain;
     border-radius: var(--radius-sm);
     margin: 1.5rem 0;
 }
