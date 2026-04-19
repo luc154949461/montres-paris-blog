@@ -13,7 +13,8 @@
           { name: 'excerpt', weight: 0.3 },
           { name: 'category_title', weight: 0.1 },
         ],
-        threshold: 0.3,
+        threshold: 0.4,
+        ignoreLocation: true,
         includeScore: true,
         minMatchCharLength: 2,
       });
@@ -42,10 +43,10 @@
     results.innerHTML = hits.map(h => {
       const a = h.item;
       const img = a.image 
-        ? '<img class="card-img" src="' + a.image + '" alt="" loading="lazy">' 
+        ? '<img class="montre-img" src="' + a.image + '" alt="" loading="lazy">' 
         : '';
-      return '<article class="card">' + img +
-        '<div class="card-body">' +
+      return '<article class="garde-temps">' + img +
+        '<div class="montre-body">' +
         '<h3><a href="/' + a.category + '/' + a.slug + '/">' + a.title + '</a></h3>' +
         (a.excerpt ? '<p>' + a.excerpt + '</p>' : '') +
         (a.date ? '<time>' + a.date + '</time>' : '') +
