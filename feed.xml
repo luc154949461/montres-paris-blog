@@ -4,11 +4,43 @@
   <link href="https://montres-paris.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://montres-paris.com/" rel="alternate" type="text/html"/>
   <id>https://montres-paris.com/</id>
-  <updated>2026-03-09</updated>
+  <updated>2026-04-30</updated>
   <author>
     <name>Montres Paris</name>
   </author>
   <subtitle>Montres à Paris — boutiques, maisons, créateurs indépendants, culture horlogère et tendances de la scène parisienne</subtitle>
+  <entry>
+    <title>Les horlogers-réparateurs de quartier : un savoir-faire parisien menacé</title>
+    <link href="https://montres-paris.com/createurs/les-horlogers-reparateurs-de-quartier-un-savoir-faire-parisien-menace/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/createurs/les-horlogers-reparateurs-de-quartier-un-savoir-faire-parisien-menace/</id>
+    <published>2026-04-30</published>
+    <updated>2026-04-30</updated>
+    <summary>Dans les rues de Paris, quelques horlogers-réparateurs perpétuent un art millénaire. Face à la montre jetable et à la raréfaction des pièces, ces artisans résistent. Portrait d'une profession menacée, des quartiers où elle survit, et des raisons de lui faire confiance.</summary>
+  </entry>
+  <entry>
+    <title>Le Marais horloger : concept stores, indépendants et montres de créateurs</title>
+    <link href="https://montres-paris.com/boutiques/le-marais-horloger-concept-stores-independants-et-montres-de-createurs/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/boutiques/le-marais-horloger-concept-stores-independants-et-montres-de-createurs/</id>
+    <published>2026-04-29</published>
+    <updated>2026-04-29</updated>
+    <summary>Entre concept stores design et ateliers d'horlogers indépendants, le Marais parisien propose une expérience horlogère radicalement différente de la Place Vendôme. Portrait d'un quartier qui réinvente le rapport à la montre.</summary>
+  </entry>
+  <entry>
+    <title>Les Puces de Saint-Ouen : le paradis secret du vintage horloger à Paris</title>
+    <link href="https://montres-paris.com/boutiques/les-puces-de-saint-ouen-le-paradis-secret-du-vintage-horloger-a-paris/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/boutiques/les-puces-de-saint-ouen-le-paradis-secret-du-vintage-horloger-a-paris/</id>
+    <published>2026-04-28</published>
+    <updated>2026-04-28</updated>
+    <summary>Les Puces de Saint-Ouen cachent un véritable trésor pour les amateurs de montres vintage. Guide pratique pour naviguer entre les marchés Vernaison, Paul Bert et Biron, repérer les bons vendeurs, éviter les contrefaçons et peut-être dénicher la perle rare.</summary>
+  </entry>
+  <entry>
+    <title>Place Vendôme et rue de la Paix : le cœur battant de la haute horlogerie parisienne</title>
+    <link href="https://montres-paris.com/boutiques/place-vendome-et-rue-de-la-paix-le-coeur-battant-de-la-haute-horlogerie-parisienne/" rel="alternate" type="text/html"/>
+    <id>https://montres-paris.com/boutiques/place-vendome-et-rue-de-la-paix-le-coeur-battant-de-la-haute-horlogerie-parisienne/</id>
+    <published>2026-04-27</published>
+    <updated>2026-04-27</updated>
+    <summary>Place Vendôme, rue de la Paix, rue Royale : le triangle d'or de l'horlogerie parisienne concentre, sur quelques centaines de mètres, les boutiques les plus prestigieuses du monde. Breguet, Patek Philippe, Vacheron Constantin, Cartier — une promenade dans l'histoire du luxe à la française et dans les coulisses d'un art de recevoir unique au monde.</summary>
+  </entry>
   <entry>
     <title>Histoire de l'horlogerie à Paris : de la pendule royale à la montre connectée</title>
     <link href="https://montres-paris.com/culture/histoire-de-l-horlogerie-a-paris-de-la-pendule-royale-a-la-montre-connectee/" rel="alternate" type="text/html"/>
